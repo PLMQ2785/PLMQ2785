@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### Introduction
+## Introduction
 <!--
 **PLMQ2785/PLMQ2785** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
