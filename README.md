@@ -11,5 +11,8 @@
 - 프레임워크: .NET, Tensorflow, PyTorch 
 - 도구: VSCODE,VISUAL STIDIO, INTELLIJ, PYCHARM 
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 ## 📊 GitHub 통계
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PLMQ2785&show_icons=true&theme=radical)
