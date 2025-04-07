@@ -1,15 +1,15 @@
-## Introduction
-<!--
-**PLMQ2785/PLMQ2785** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 안녕하세요, 저는 배원일 입니다 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 저는 현재 영남대학교에 재학중입니다
+- 🌱 저는 지금 컴퓨터공학을 배우고 있습니다
+- 👯 머신러닝/LLM/컴퓨터비전 프로젝트에 협업하고 싶습니다
+- 📫 연락처: baewonil@yu.ac.kr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 기술 스택
+- 언어: Python,JAVA,JAVASCRIPT,C# 
+- 프레임워크: .NET, Tensorflow, PyTorch 
+- 도구: VSCODE,VISUAL STIDIO, INTELLIJ, PYCHARM 
+
+## 📊 GitHub 통계
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PLMQ2785&show_icons=true&theme=radical)
