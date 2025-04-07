@@ -16,5 +16,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+![Snake animation](https://github.com/username/username/blob/output/github-contribution-grid-snake.svg)
+
 ## 📊 GitHub 통계
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PLMQ2785&show_icons=true&theme=radical)
